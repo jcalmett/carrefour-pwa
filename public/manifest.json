@@ -1,0 +1,25 @@
+{
+  "name": "Carrefour Express",
+  "short_name": "Carrefour",
+  "description": "Gestión de Campañas Promocionales",
+  "start_url": "/carrefour-pwa/",
+  "scope": "/carrefour-pwa/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00843D",
+  "theme_color": "#00843D",
+  "icons": [
+    {
+      "src": "/carrefour-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/carrefour-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
